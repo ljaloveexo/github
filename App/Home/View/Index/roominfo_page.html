@@ -1,0 +1,34 @@
+<!DOCTYPE html>
+<html>
+<head>
+</head>
+<body>
+<div id="server">
+			<table id="info" bordercolor="#dadada" border="1" align="center">
+				<tbody>
+				<tr>
+				
+					<th>编号</th>
+					<th>详细地址</th>
+					<th>可容人数</th>
+					<th>操作</th>
+				</tr>
+				<tbody align="center" class="tableBody" id="info_page">
+					<volist name="list" id="classroominfo">
+					<tr>
+					
+						<td>&nbsp;{$classroominfo.number}</td>
+						<td>&nbsp;{$classroominfo.address}</td>
+						<td>&nbsp;{$classroominfo.capacity}</td>
+						<td><a href="__URL__/deleteclassroom/id/{$classroominfo.id}"><img src="__IMG__/delete.png" width="20" height="20"></a></td>
+					</tr>
+					</volist>
+				</tbody>
+			</table>
+				<section id="preview"></section>
+				<div id="row-fluid">{$data}</div>
+				<input type="hidden" id="tb" value="classroominfo" />
+				<input type="hidden" id="page" value="Index/roominfo_page" />
+			</div>
+			</body>
+			</html>

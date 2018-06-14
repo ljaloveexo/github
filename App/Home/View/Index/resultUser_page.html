@@ -1,0 +1,44 @@
+<!DOCTYPE html>
+<html>
+<head>
+</head>
+<body>
+	<div id="server">
+				<table id="info" bordercolor="#dadada" border="1" align="center">
+					<tr border="1">
+						<th>编号</th>
+						<th>详细地址</th>
+						<th>预订日期</th>
+						<th>时间段</th>
+						<th>预订人</th>
+						<th>预订原因</th>
+						<th>预订结果</th>
+						<th>操作</th>
+
+					
+				
+					
+					<tbody class="tableBody" border="1" id="info_page">
+                       
+						<volist name="list" id="orderrecord">
+						<tr> 
+
+							<td id="0">&nbsp;{$orderrecord.number}</td>
+							<td id="1">&nbsp;{$orderrecord.address}</td>
+							<td id="2">&nbsp;{$orderrecord.orderdate}</td>
+							<td id="3">&nbsp;{$orderrecord.time}</td>
+							<td id="4">&nbsp;{$orderrecord.user}</td>
+							<td id="5">&nbsp;{$orderrecord.reason}</td>
+							<td id="6">&nbsp;{$orderrecord.result}</td>
+							<td><a href="__URL__/deleteorder/id/{$orderrecord.id}" onclick="deleteUser();"><img
+									src="/classroomorder_ThinkPHP/Public/images/delete.png" width="20" height="20"></a></td>
+						</tr>
+						</volist>
+                    
+					</tbody>
+				</table>
+					<section id="preview"></section>
+				<div id="row-fluid">{$data}</div>
+				 </div>
+</body>
+</html>

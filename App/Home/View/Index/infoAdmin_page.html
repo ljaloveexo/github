@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html>
+<head>
+<body>
+<div id="server">
+				<table style="color: black;background-color: white;margin-top:20px;width:96%;
+border-collapse: collapse;
+" align="center" bordercolor="#dadada" border="1">
+					<tr style="background-color: #EAEAEA;">
+						<th>ID</th>
+						<th>用户名</th>
+						<th>密码</th>
+
+					</tr>
+					<tbody class="tableBody" align="center" id="info_page">
+
+						<volist name='list' id='account' >
+  <tr>
+    <td >&nbsp;{$account.id}</td>
+    <td >&nbsp;{$account.account}</td>
+    <td >&nbsp;{$account.password}</td>
+  </tr>
+  </volist>
+						
+
+					</tbody>
+				</table>
+					<section id="preview"></section>
+				<div id="row-fluid">{$data}</div>
+				</div>
+</body>
+</head>
+</html>

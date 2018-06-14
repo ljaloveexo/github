@@ -1,0 +1,2024 @@
+[ 2017-12-14T10:27:57+08:00 ] ::1 /classroomorder_ThinkPHP/index.php/Home/Index/classroomorderUser.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000173s ]
+INFO: [ app_init ] --END-- [ RunTime:0.050761s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.038019s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.038575s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.012238s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.012774s ]
+NOTIC: [8] Undefined variable: select D:\phpStudy\WWW\classroomorder_ThinkPHP\App\Runtime\Cache\Home\b6e3b388bfa4cb70aaa12420170d28c3.php 第 77 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.260351s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.260868s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.022651s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.023130s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.018217s ]
+INFO: [ app_end ] --END-- [ RunTime:0.018705s ]
+
+[ 2017-12-14T10:27:57+08:00 ] ::1 /classroomorder_ThinkPHP/index.php/Home/Index/images/magglass.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000113s ]
+INFO: [ app_init ] --END-- [ RunTime:0.009544s ]
+
+[ 2017-12-14T10:28:10+08:00 ] ::1 /classroomorder_ThinkPHP/index.php/Home/Index/classroomorderFindAll
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000117s ]
+INFO: [ app_init ] --END-- [ RunTime:0.012151s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.014719s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.015134s ]
+SQL: SHOW COLUMNS FROM `tb_classroomorder` [ RunTime:0.2048s ]
+SQL: SELECT * FROM `tb_classroomorder`  [ RunTime:0.0204s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000512s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000955s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.130795s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.131261s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.010186s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.010549s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.013230s ]
+INFO: [ app_end ] --END-- [ RunTime:0.013603s ]
+
+[ 2017-12-14T10:28:10+08:00 ] ::1 /classroomorder_ThinkPHP/index.php/Home/Index/images/magglass.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000112s ]
+INFO: [ app_init ] --END-- [ RunTime:0.008004s ]
+
+[ 2017-12-14T10:31:06+08:00 ] ::1 /classroomorder_ThinkPHP/index.php/Home/Index/classroominfoAdmin
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000062s ]
+INFO: [ app_init ] --END-- [ RunTime:0.004927s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.007207s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.007451s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000271s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000474s ]
+NOTIC: [8] Undefined variable: select D:\phpStudy\WWW\classroomorder_ThinkPHP\App\Runtime\Cache\Home\d7939a04248905f7f85262b6c1e689f5.php 第 90 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.101261s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.101460s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.005806s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.005999s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.007052s ]
+INFO: [ app_end ] --END-- [ RunTime:0.007253s ]
+
+[ 2017-12-14T10:31:06+08:00 ] ::1 /classroomorder_ThinkPHP/index.php/Home/Index/images/magglass.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000061s ]
+INFO: [ app_init ] --END-- [ RunTime:0.004854s ]
+
+[ 2017-12-14T10:31:20+08:00 ] ::1 /classroomorder_ThinkPHP/index.php/Home/Index/orderoperateAdmin
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000061s ]
+INFO: [ app_init ] --END-- [ RunTime:0.004030s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.007484s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.007715s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000287s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000545s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.103874s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.104135s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.006040s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.006237s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.006787s ]
+INFO: [ app_end ] --END-- [ RunTime:0.006995s ]
+
+[ 2017-12-14T10:31:21+08:00 ] ::1 /classroomorder_ThinkPHP/index.php/Home/Index/images/magglass.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000063s ]
+INFO: [ app_init ] --END-- [ RunTime:0.004059s ]
+
+[ 2017-12-14T10:49:26+08:00 ] ::1 /classroomorder_ThinkPHP/index.php/Home/Index/classroomstateAdmin
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000053s ]
+INFO: [ app_init ] --END-- [ RunTime:0.004143s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.006424s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.006614s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000221s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000404s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.044758s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.045171s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.005217s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.005381s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.005498s ]
+INFO: [ app_end ] --END-- [ RunTime:0.005670s ]
+
+[ 2017-12-14T10:49:26+08:00 ] ::1 /classroomorder_ThinkPHP/index.php/Home/Index/images/magglass.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000053s ]
+INFO: [ app_init ] --END-- [ RunTime:0.003431s ]
+
+[ 2017-12-14T10:49:26+08:00 ] ::1 /classroomorder_ThinkPHP/index.php
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000043s ]
+INFO: [ app_init ] --END-- [ RunTime:0.003177s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.004537s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.004697s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000154s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000291s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.033715s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.033903s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.003829s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.003959s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.004580s ]
+INFO: [ app_end ] --END-- [ RunTime:0.004715s ]
+
+[ 2017-12-14T10:49:32+08:00 ] ::1 /classroomorder_ThinkPHP/index.php/Home/Index/orderoperateAdmin
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000083s ]
+INFO: [ app_init ] --END-- [ RunTime:0.005599s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.006807s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.007109s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000332s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000607s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.052304s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.052610s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.004757s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.005007s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.006062s ]
+INFO: [ app_end ] --END-- [ RunTime:0.006333s ]
+
+[ 2017-12-14T10:49:33+08:00 ] ::1 /classroomorder_ThinkPHP/index.php/Home/Index/images/magglass.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000058s ]
+INFO: [ app_init ] --END-- [ RunTime:0.004500s ]
+
+[ 2017-12-14T10:56:50+08:00 ] ::1 /classroomorder_ThinkPHP/index.php/Home/Index/orderoperateAdmin
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000110s ]
+INFO: [ app_init ] --END-- [ RunTime:0.004934s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.007634s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.007982s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000287s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000487s ]
+NOTIC: [8] Undefined variable: select D:\phpStudy\WWW\classroomorder_ThinkPHP\App\Runtime\Cache\Home\ee6f1f549cb3d032679a40707958a5e3.php 第 94 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.052301s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.052951s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.005575s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.005964s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.006552s ]
+INFO: [ app_end ] --END-- [ RunTime:0.006766s ]
+
+[ 2017-12-14T10:56:50+08:00 ] ::1 /classroomorder_ThinkPHP/index.php/Home/Index/images/magglass.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000078s ]
+INFO: [ app_init ] --END-- [ RunTime:0.005308s ]
+
+[ 2017-12-14T10:56:56+08:00 ] ::1 /classroomorder_ThinkPHP/index.php/Home/Index/classroomFindAll
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000080s ]
+INFO: [ app_init ] --END-- [ RunTime:0.007155s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.009514s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.009809s ]
+SQL: SHOW COLUMNS FROM `tb_classroominfo` [ RunTime:0.0933s ]
+SQL: SELECT * FROM `tb_classroominfo`  [ RunTime:0.0034s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000556s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000990s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.087468s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.087898s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.006732s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.007093s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.008893s ]
+INFO: [ app_end ] --END-- [ RunTime:0.009264s ]
+
+[ 2017-12-14T10:56:57+08:00 ] ::1 /classroomorder_ThinkPHP/index.php/Home/Index/images/magglass.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000148s ]
+INFO: [ app_init ] --END-- [ RunTime:0.014427s ]
+
+[ 2017-12-14T10:57:08+08:00 ] ::1 /classroomorder_ThinkPHP/index.php/Home/Index/orderrecordAdmin
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000063s ]
+INFO: [ app_init ] --END-- [ RunTime:0.004213s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.004756s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.004970s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000547s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000801s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.082684s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.082910s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.003923s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.004116s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.005100s ]
+INFO: [ app_end ] --END-- [ RunTime:0.005303s ]
+
+[ 2017-12-14T10:57:08+08:00 ] ::1 /classroomorder_ThinkPHP/index.php/Home/Index/images/magglass.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000064s ]
+INFO: [ app_init ] --END-- [ RunTime:0.004297s ]
+
+[ 2017-12-14T10:58:42+08:00 ] ::1 /classroomorder_ThinkPHP/index.php/Home/Index/orderoperateAdmin
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000116s ]
+INFO: [ app_init ] --END-- [ RunTime:0.008385s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.009062s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.009377s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000273s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000483s ]
+NOTIC: [8] Undefined variable: select D:\phpStudy\WWW\classroomorder_ThinkPHP\App\Runtime\Cache\Home\ee6f1f549cb3d032679a40707958a5e3.php 第 94 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.042211s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.042412s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.004714s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.004912s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.004860s ]
+INFO: [ app_end ] --END-- [ RunTime:0.005065s ]
+
+[ 2017-12-14T10:58:42+08:00 ] ::1 /classroomorder_ThinkPHP/index.php/Home/Index/images/magglass.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000062s ]
+INFO: [ app_init ] --END-- [ RunTime:0.004254s ]
+
+[ 2017-12-14T10:58:46+08:00 ] ::1 /classroomorder_ThinkPHP/index.php/Home/Index/orderoperationFindAll
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000120s ]
+INFO: [ app_init ] --END-- [ RunTime:0.006665s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.007381s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.007708s ]
+SQL: SHOW COLUMNS FROM `tb_orderoperation` [ RunTime:0.0589s ]
+SQL: SELECT * FROM `tb_orderoperation`  [ RunTime:0.0033s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000515s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.001062s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.098899s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.100388s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.008208s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.008601s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.009924s ]
+INFO: [ app_end ] --END-- [ RunTime:0.010304s ]
+
+[ 2017-12-14T10:58:46+08:00 ] ::1 /classroomorder_ThinkPHP/index.php/Home/Index/images/magglass.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000064s ]
+INFO: [ app_init ] --END-- [ RunTime:0.006394s ]
+
+[ 2017-12-14T11:00:37+08:00 ] ::1 /classroomorder_ThinkPHP/index.php/Home/Index/orderoperationFindAll
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000062s ]
+INFO: [ app_init ] --END-- [ RunTime:0.005020s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.008353s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.008607s ]
+SQL: SHOW COLUMNS FROM `tb_orderoperation` [ RunTime:0.0611s ]
+SQL: SELECT * FROM `tb_orderoperation`  [ RunTime:0.0031s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000529s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000938s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.129495s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.129919s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.010617s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.010981s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.012841s ]
+INFO: [ app_end ] --END-- [ RunTime:0.013221s ]
+
+[ 2017-12-14T11:00:38+08:00 ] ::1 /classroomorder_ThinkPHP/index.php/Home/Index/images/magglass.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000111s ]
+INFO: [ app_init ] --END-- [ RunTime:0.012460s ]
+
+[ 2017-12-14T11:01:00+08:00 ] ::1 /classroomorder_ThinkPHP/index.php/Home/Index/orderoperationFindAll
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000063s ]
+INFO: [ app_init ] --END-- [ RunTime:0.005248s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.005082s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.005329s ]
+SQL: SHOW COLUMNS FROM `tb_orderoperation` [ RunTime:0.0907s ]
+SQL: SELECT * FROM `tb_orderoperation`  [ RunTime:0.0048s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000522s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000918s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.086945s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.087439s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.007352s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.008360s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.009615s ]
+INFO: [ app_end ] --END-- [ RunTime:0.009995s ]
+
+[ 2017-12-14T11:01:01+08:00 ] ::1 /classroomorder_ThinkPHP/index.php/Home/Index/images/magglass.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000115s ]
+INFO: [ app_init ] --END-- [ RunTime:0.016916s ]
+
+[ 2017-12-14T11:03:01+08:00 ] ::1 /classroomorder_ThinkPHP/index.php/Home/Index/classroomorderUser.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000061s ]
+INFO: [ app_init ] --END-- [ RunTime:0.004860s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.007558s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.007792s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000261s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000464s ]
+NOTIC: [8] Undefined variable: select D:\phpStudy\WWW\classroomorder_ThinkPHP\App\Runtime\Cache\Home\b6e3b388bfa4cb70aaa12420170d28c3.php 第 77 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.054962s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.055163s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.005228s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.005423s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.006529s ]
+INFO: [ app_end ] --END-- [ RunTime:0.006724s ]
+
+[ 2017-12-14T11:03:01+08:00 ] ::1 /classroomorder_ThinkPHP/index.php/Home/Index/images/magglass.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000063s ]
+INFO: [ app_init ] --END-- [ RunTime:0.003895s ]
+
+[ 2017-12-14T11:03:06+08:00 ] ::1 /classroomorder_ThinkPHP/index.php/Home/Index/classroomorderFindAll
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000092s ]
+INFO: [ app_init ] --END-- [ RunTime:0.006750s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.009622s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.009986s ]
+SQL: SHOW COLUMNS FROM `tb_classroomorder` [ RunTime:0.0926s ]
+SQL: SELECT * FROM `tb_classroomorder`  [ RunTime:0.0075s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000523s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000958s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.102501s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.102954s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.008809s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.009177s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.009701s ]
+INFO: [ app_end ] --END-- [ RunTime:0.010077s ]
+
+[ 2017-12-14T11:03:06+08:00 ] ::1 /classroomorder_ThinkPHP/index.php/Home/Index/images/magglass.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000115s ]
+INFO: [ app_init ] --END-- [ RunTime:0.008678s ]
+
+[ 2017-12-14T11:03:21+08:00 ] ::1 /classroomorder_ThinkPHP/index.php/Home/Index/classroominfoAdmin
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000096s ]
+INFO: [ app_init ] --END-- [ RunTime:0.006789s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.007407s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.007743s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000525s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000889s ]
+NOTIC: [8] Undefined variable: select D:\phpStudy\WWW\classroomorder_ThinkPHP\App\Runtime\Cache\Home\d7939a04248905f7f85262b6c1e689f5.php 第 90 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.066184s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.066487s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.007399s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.007695s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.007263s ]
+INFO: [ app_end ] --END-- [ RunTime:0.007660s ]
+
+[ 2017-12-14T11:03:21+08:00 ] ::1 /classroomorder_ThinkPHP/index.php/Home/Index/images/magglass.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000070s ]
+INFO: [ app_init ] --END-- [ RunTime:0.006456s ]
+
+[ 2017-12-14T11:03:25+08:00 ] ::1 /classroomorder_ThinkPHP/index.php/Home/Index/classroomFindAll
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000064s ]
+INFO: [ app_init ] --END-- [ RunTime:0.004178s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.004909s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.005142s ]
+SQL: SHOW COLUMNS FROM `tb_classroominfo` [ RunTime:0.0761s ]
+SQL: SELECT * FROM `tb_classroominfo`  [ RunTime:0.0045s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000809s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.001560s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.111811s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.112445s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.011700s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.012179s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.013343s ]
+INFO: [ app_end ] --END-- [ RunTime:0.013828s ]
+
+[ 2017-12-14T11:03:25+08:00 ] ::1 /classroomorder_ThinkPHP/index.php/Home/Index/images/magglass.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000114s ]
+INFO: [ app_init ] --END-- [ RunTime:0.007799s ]
+
+[ 2017-12-14T11:03:32+08:00 ] ::1 /classroomorder_ThinkPHP/index.php/Home/Index/orderoperateAdmin
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000080s ]
+INFO: [ app_init ] --END-- [ RunTime:0.006557s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.009721s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.010083s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000354s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000623s ]
+NOTIC: [8] Undefined variable: select D:\phpStudy\WWW\classroomorder_ThinkPHP\App\Runtime\Cache\Home\ee6f1f549cb3d032679a40707958a5e3.php 第 94 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.070309s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.070567s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.007047s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.007294s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.008880s ]
+INFO: [ app_end ] --END-- [ RunTime:0.009144s ]
+
+[ 2017-12-14T11:03:33+08:00 ] ::1 /classroomorder_ThinkPHP/index.php/Home/Index/images/magglass.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000081s ]
+INFO: [ app_init ] --END-- [ RunTime:0.006468s ]
+
+[ 2017-12-14T11:03:36+08:00 ] ::1 /classroomorder_ThinkPHP/index.php/Home/Index/orderoperationFindAll
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000071s ]
+INFO: [ app_init ] --END-- [ RunTime:0.004948s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.005486s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.005737s ]
+SQL: SHOW COLUMNS FROM `tb_orderoperation` [ RunTime:0.0866s ]
+SQL: SELECT * FROM `tb_orderoperation`  [ RunTime:0.0044s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000737s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.001247s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.108504s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.108993s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.007409s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.007768s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.009208s ]
+INFO: [ app_end ] --END-- [ RunTime:0.009584s ]
+
+[ 2017-12-14T11:03:36+08:00 ] ::1 /classroomorder_ThinkPHP/index.php/Home/Index/images/magglass.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000112s ]
+INFO: [ app_init ] --END-- [ RunTime:0.007714s ]
+
+[ 2017-12-14T11:04:15+08:00 ] ::1 /classroomorder_ThinkPHP/index.php/Home/Index/orderoperationFindAll
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000047s ]
+INFO: [ app_init ] --END-- [ RunTime:0.003860s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.005386s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.005567s ]
+SQL: SHOW COLUMNS FROM `tb_orderoperation` [ RunTime:0.0776s ]
+SQL: SELECT * FROM `tb_orderoperation`  [ RunTime:0.0040s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000679s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.001186s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.136987s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.137543s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.013685s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.014160s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.016805s ]
+INFO: [ app_end ] --END-- [ RunTime:0.017342s ]
+
+[ 2017-12-14T11:04:16+08:00 ] ::1 /classroomorder_ThinkPHP/index.php/Home/Index/images/magglass.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000095s ]
+INFO: [ app_init ] --END-- [ RunTime:0.011951s ]
+
+[ 2017-12-14T11:04:22+08:00 ] ::1 /classroomorder_ThinkPHP/index.php/Home/Index/orderoperationFindAll
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000092s ]
+INFO: [ app_init ] --END-- [ RunTime:0.006699s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.007335s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.007676s ]
+SQL: SHOW COLUMNS FROM `tb_orderoperation` [ RunTime:0.0733s ]
+SQL: SELECT * FROM `tb_orderoperation`  [ RunTime:0.0027s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000591s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000943s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.069498s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.069859s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.006325s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.006641s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.007451s ]
+INFO: [ app_end ] --END-- [ RunTime:0.007753s ]
+
+[ 2017-12-14T11:04:22+08:00 ] ::1 /classroomorder_ThinkPHP/index.php/Home/Index/images/magglass.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000092s ]
+INFO: [ app_init ] --END-- [ RunTime:0.006364s ]
+
+[ 2017-12-14T11:04:27+08:00 ] ::1 /classroomorder_ThinkPHP/index.php/Home/Index/orderoperationFindAll
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000112s ]
+INFO: [ app_init ] --END-- [ RunTime:0.007711s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.009620s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.010032s ]
+SQL: SHOW COLUMNS FROM `tb_orderoperation` [ RunTime:0.0778s ]
+SQL: SELECT * FROM `tb_orderoperation`  [ RunTime:0.0040s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000690s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.001208s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.120324s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.120880s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.009659s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.010139s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.012562s ]
+INFO: [ app_end ] --END-- [ RunTime:0.013055s ]
+
+[ 2017-12-14T11:04:28+08:00 ] ::1 /classroomorder_ThinkPHP/index.php/Home/Index/images/magglass.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000113s ]
+INFO: [ app_init ] --END-- [ RunTime:0.008143s ]
+
+[ 2017-12-14T11:05:38+08:00 ] ::1 /classroomorder_ThinkPHP/index.php/Home/Index/orderoperationFindAll
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000079s ]
+INFO: [ app_init ] --END-- [ RunTime:0.007596s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.007901s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.008859s ]
+SQL: SHOW COLUMNS FROM `tb_orderoperation` [ RunTime:0.0796s ]
+SQL: SELECT * FROM `tb_orderoperation`  [ RunTime:0.0049s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000682s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.001198s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.111179s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.111724s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.008962s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.009434s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.012322s ]
+INFO: [ app_end ] --END-- [ RunTime:0.012799s ]
+
+[ 2017-12-14T11:05:38+08:00 ] ::1 /classroomorder_ThinkPHP/index.php/Home/Index/images/magglass.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000115s ]
+INFO: [ app_init ] --END-- [ RunTime:0.009041s ]
+
+[ 2017-12-14T11:07:49+08:00 ] ::1 /classroomorder_ThinkPHP/index.php/Home/Index/orderoperationFindAll
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000094s ]
+INFO: [ app_init ] --END-- [ RunTime:0.007762s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.006909s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.007124s ]
+SQL: SHOW COLUMNS FROM `tb_orderoperation` [ RunTime:0.0809s ]
+SQL: SELECT * FROM `tb_orderoperation`  [ RunTime:0.0039s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000692s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.001209s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.140697s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.141275s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.013070s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.013542s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.026226s ]
+INFO: [ app_end ] --END-- [ RunTime:0.026695s ]
+
+[ 2017-12-14T11:07:50+08:00 ] ::1 /classroomorder_ThinkPHP/index.php/Home/Index/images/magglass.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000112s ]
+INFO: [ app_init ] --END-- [ RunTime:0.007995s ]
+
+[ 2017-12-14T11:11:24+08:00 ] ::1 /classroomorder_ThinkPHP/index.php/Home/Index/orderoperationFindAll
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000078s ]
+INFO: [ app_init ] --END-- [ RunTime:0.008427s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.010194s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.010647s ]
+SQL: SHOW COLUMNS FROM `tb_orderoperation` [ RunTime:0.0811s ]
+SQL: SELECT * FROM `tb_orderoperation`  [ RunTime:0.0040s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000692s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.001213s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.142331s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.142972s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.013877s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.014350s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.017419s ]
+INFO: [ app_end ] --END-- [ RunTime:0.017892s ]
+
+[ 2017-12-14T11:11:24+08:00 ] ::1 /classroomorder_ThinkPHP/index.php/Home/Index/images/magglass.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000111s ]
+INFO: [ app_init ] --END-- [ RunTime:0.007658s ]
+
+[ 2017-12-14T11:11:33+08:00 ] ::1 /classroomorder_ThinkPHP/index.php/Home/Index/orderoperationFindAll
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000079s ]
+INFO: [ app_init ] --END-- [ RunTime:0.006189s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.006341s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.006634s ]
+SQL: SHOW COLUMNS FROM `tb_orderoperation` [ RunTime:0.0777s ]
+SQL: SELECT * FROM `tb_orderoperation`  [ RunTime:0.0041s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000686s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.001198s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.108510s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.109135s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.009839s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.010396s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.013894s ]
+INFO: [ app_end ] --END-- [ RunTime:0.014394s ]
+
+[ 2017-12-14T11:11:33+08:00 ] ::1 /classroomorder_ThinkPHP/index.php/Home/Index/images/magglass.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000113s ]
+INFO: [ app_init ] --END-- [ RunTime:0.008372s ]
+
+[ 2017-12-14T11:12:10+08:00 ] ::1 /classroomorder_ThinkPHP/index.php/Home/Index/orderoperationFindAll
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000079s ]
+INFO: [ app_init ] --END-- [ RunTime:0.005214s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.006062s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.006348s ]
+SQL: SHOW COLUMNS FROM `tb_orderoperation` [ RunTime:0.0815s ]
+SQL: SELECT * FROM `tb_orderoperation`  [ RunTime:0.0040s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000692s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.001228s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.112039s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.112619s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.009057s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.009541s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.013162s ]
+INFO: [ app_end ] --END-- [ RunTime:0.014065s ]
+
+[ 2017-12-14T11:12:10+08:00 ] ::1 /classroomorder_ThinkPHP/index.php/Home/Index/images/magglass.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000113s ]
+INFO: [ app_init ] --END-- [ RunTime:0.008162s ]
+
+[ 2017-12-14T11:16:20+08:00 ] ::1 /classroomorder_ThinkPHP/index.php/Home/Index/orderoperationFindAll
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000051s ]
+INFO: [ app_init ] --END-- [ RunTime:0.003930s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.006966s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.007161s ]
+SQL: SHOW COLUMNS FROM `tb_orderoperation` [ RunTime:0.0796s ]
+SQL: SELECT * FROM `tb_orderoperation`  [ RunTime:0.0039s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.001058s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.001613s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.140940s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.141488s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.013371s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.013861s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.018275s ]
+INFO: [ app_end ] --END-- [ RunTime:0.018753s ]
+
+[ 2017-12-14T11:16:20+08:00 ] ::1 /classroomorder_ThinkPHP/index.php/Home/Index/images/magglass.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000111s ]
+INFO: [ app_init ] --END-- [ RunTime:0.008077s ]
+
+[ 2017-12-14T11:17:41+08:00 ] ::1 /classroomorder_ThinkPHP/index.php/Home/Index/orderoperationFindAll
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000090s ]
+INFO: [ app_init ] --END-- [ RunTime:0.009405s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.006888s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.007226s ]
+SQL: SHOW COLUMNS FROM `tb_orderoperation` [ RunTime:0.1352s ]
+SQL: SELECT * FROM `tb_orderoperation`  [ RunTime:0.0041s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000683s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.001188s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.113114s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.113653s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.010161s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.010642s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.012044s ]
+INFO: [ app_end ] --END-- [ RunTime:0.012525s ]
+
+[ 2017-12-14T11:17:42+08:00 ] ::1 /classroomorder_ThinkPHP/index.php/Home/Index/images/magglass.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000196s ]
+INFO: [ app_init ] --END-- [ RunTime:0.005736s ]
+
+[ 2017-12-14T11:18:08+08:00 ] ::1 /classroomorder_ThinkPHP/index.php/Home/Index/orderoperationFindAll
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000081s ]
+INFO: [ app_init ] --END-- [ RunTime:0.005839s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.006202s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.006500s ]
+SQL: SHOW COLUMNS FROM `tb_orderoperation` [ RunTime:0.0839s ]
+SQL: SELECT * FROM `tb_orderoperation`  [ RunTime:0.0039s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000680s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.001187s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.110564s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.111104s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.008764s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.009237s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.013536s ]
+INFO: [ app_end ] --END-- [ RunTime:0.014027s ]
+
+[ 2017-12-14T11:18:09+08:00 ] ::1 /classroomorder_ThinkPHP/index.php/Home/Index/images/magglass.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000113s ]
+INFO: [ app_init ] --END-- [ RunTime:0.007663s ]
+
+[ 2017-12-14T11:18:17+08:00 ] ::1 /classroomorder_ThinkPHP/index.php/Home/Index/orderoperationFindAll
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000078s ]
+INFO: [ app_init ] --END-- [ RunTime:0.005401s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.006412s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.006705s ]
+SQL: SHOW COLUMNS FROM `tb_orderoperation` [ RunTime:0.0804s ]
+SQL: SELECT * FROM `tb_orderoperation`  [ RunTime:0.0041s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000538s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000928s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.095642s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.096247s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.006831s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.007191s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.008996s ]
+INFO: [ app_end ] --END-- [ RunTime:0.009368s ]
+
+[ 2017-12-14T11:18:17+08:00 ] ::1 /classroomorder_ThinkPHP/index.php/Home/Index/images/magglass.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000113s ]
+INFO: [ app_init ] --END-- [ RunTime:0.007798s ]
+
+[ 2017-12-14T11:19:01+08:00 ] ::1 /classroomorder_ThinkPHP/index.php/Home/Index/orderoperationFindAll
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000061s ]
+INFO: [ app_init ] --END-- [ RunTime:0.004968s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.007166s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.007399s ]
+SQL: SHOW COLUMNS FROM `tb_orderoperation` [ RunTime:0.0811s ]
+SQL: SELECT * FROM `tb_orderoperation`  [ RunTime:0.0040s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.001080s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.001718s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.138752s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.139397s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.014375s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.014859s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.021989s ]
+INFO: [ app_end ] --END-- [ RunTime:0.022473s ]
+
+[ 2017-12-14T11:19:02+08:00 ] ::1 /classroomorder_ThinkPHP/index.php/Home/Index/images/magglass.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000139s ]
+INFO: [ app_init ] --END-- [ RunTime:0.008821s ]
+
+[ 2017-12-14T11:19:33+08:00 ] ::1 /classroomorder_ThinkPHP/index.php/Home/Index/orderoperationFindAll
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000064s ]
+INFO: [ app_init ] --END-- [ RunTime:0.004814s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.005894s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.006133s ]
+SQL: SHOW COLUMNS FROM `tb_orderoperation` [ RunTime:0.1009s ]
+SQL: SELECT * FROM `tb_orderoperation`  [ RunTime:0.0044s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000689s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.001302s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.123165s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.123718s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.010035s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.010657s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.013092s ]
+INFO: [ app_end ] --END-- [ RunTime:0.013940s ]
+
+[ 2017-12-14T11:19:34+08:00 ] ::1 /classroomorder_ThinkPHP/index.php/Home/Index/images/magglass.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000093s ]
+INFO: [ app_init ] --END-- [ RunTime:0.007968s ]
+
+[ 2017-12-14T11:20:17+08:00 ] ::1 /classroomorder_ThinkPHP/index.php/Home/Index/orderoperationFindAll
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000065s ]
+INFO: [ app_init ] --END-- [ RunTime:0.007306s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.021099s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.021362s ]
+SQL: SHOW COLUMNS FROM `tb_orderoperation` [ RunTime:0.0912s ]
+SQL: SELECT * FROM `tb_orderoperation`  [ RunTime:0.0040s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000679s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.001176s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.110606s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.111154s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.010033s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.010511s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.011971s ]
+INFO: [ app_end ] --END-- [ RunTime:0.012448s ]
+
+[ 2017-12-14T11:20:18+08:00 ] ::1 /classroomorder_ThinkPHP/index.php/Home/Index/images/magglass.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000112s ]
+INFO: [ app_init ] --END-- [ RunTime:0.007808s ]
+
+[ 2017-12-14T11:20:51+08:00 ] ::1 /classroomorder_ThinkPHP/index.php/Home/Index/orderoperationFindAll
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000081s ]
+INFO: [ app_init ] --END-- [ RunTime:0.005365s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.006211s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.006500s ]
+SQL: SHOW COLUMNS FROM `tb_orderoperation` [ RunTime:0.0752s ]
+SQL: SELECT * FROM `tb_orderoperation`  [ RunTime:0.0034s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000519s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000907s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.081254s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.081674s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.010350s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.010719s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.009819s ]
+INFO: [ app_end ] --END-- [ RunTime:0.010189s ]
+
+[ 2017-12-14T11:20:51+08:00 ] ::1 /classroomorder_ThinkPHP/index.php/Home/Index/images/magglass.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000114s ]
+INFO: [ app_init ] --END-- [ RunTime:0.007928s ]
+
+[ 2017-12-14T11:21:09+08:00 ] ::1 /classroomorder_ThinkPHP/index.php/Home/Index/orderoperationFindAll
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000111s ]
+INFO: [ app_init ] --END-- [ RunTime:0.009144s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.014402s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.014833s ]
+SQL: SHOW COLUMNS FROM `tb_orderoperation` [ RunTime:0.0789s ]
+SQL: SELECT * FROM `tb_orderoperation`  [ RunTime:0.0039s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000682s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.001184s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.137810s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.138368s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.016469s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.016944s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.016713s ]
+INFO: [ app_end ] --END-- [ RunTime:0.017210s ]
+
+[ 2017-12-14T11:21:09+08:00 ] ::1 /classroomorder_ThinkPHP/index.php/Home/Index/images/magglass.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000257s ]
+INFO: [ app_init ] --END-- [ RunTime:0.007853s ]
+
+[ 2017-12-14T11:22:47+08:00 ] ::1 /classroomorder_ThinkPHP/index.php/Home/Index/orderoperationFindAll
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000083s ]
+INFO: [ app_init ] --END-- [ RunTime:0.011869s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.008709s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.009051s ]
+SQL: SHOW COLUMNS FROM `tb_orderoperation` [ RunTime:0.0886s ]
+SQL: SELECT * FROM `tb_orderoperation`  [ RunTime:0.0040s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.001836s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.003201s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.112413s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.112965s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.008825s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.009304s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.012025s ]
+INFO: [ app_end ] --END-- [ RunTime:0.012506s ]
+
+[ 2017-12-14T11:22:47+08:00 ] ::1 /classroomorder_ThinkPHP/index.php/Home/Index/images/magglass.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000112s ]
+INFO: [ app_init ] --END-- [ RunTime:0.008025s ]
+
+[ 2017-12-14T11:23:02+08:00 ] ::1 /classroomorder_ThinkPHP/index.php/Home/Index/orderoperationFindAll
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000062s ]
+INFO: [ app_init ] --END-- [ RunTime:0.005455s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.005262s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.005489s ]
+SQL: SHOW COLUMNS FROM `tb_orderoperation` [ RunTime:0.0785s ]
+SQL: SELECT * FROM `tb_orderoperation`  [ RunTime:0.0040s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000693s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.001207s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.111746s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.112291s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.009664s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.010149s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.012165s ]
+INFO: [ app_end ] --END-- [ RunTime:0.012648s ]
+
+[ 2017-12-14T11:23:02+08:00 ] ::1 /classroomorder_ThinkPHP/index.php/Home/Index/images/magglass.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000081s ]
+INFO: [ app_init ] --END-- [ RunTime:0.006086s ]
+
+[ 2017-12-14T11:23:24+08:00 ] ::1 /classroomorder_ThinkPHP/index.php/Home/Index/orderoperationFindAll
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000080s ]
+INFO: [ app_init ] --END-- [ RunTime:0.006645s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.009423s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.009723s ]
+SQL: SHOW COLUMNS FROM `tb_orderoperation` [ RunTime:0.0790s ]
+SQL: SELECT * FROM `tb_orderoperation`  [ RunTime:0.0047s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000723s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.001601s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.143367s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.143940s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.013627s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.014113s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.016802s ]
+INFO: [ app_end ] --END-- [ RunTime:0.017279s ]
+
+[ 2017-12-14T11:23:24+08:00 ] ::1 /classroomorder_ThinkPHP/index.php/Home/Index/images/magglass.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000095s ]
+INFO: [ app_init ] --END-- [ RunTime:0.006849s ]
+
+[ 2017-12-14T11:24:36+08:00 ] ::1 /classroomorder_ThinkPHP/index.php/Home/Index/orderoperationFindAll
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000066s ]
+INFO: [ app_init ] --END-- [ RunTime:0.004325s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.004955s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.005191s ]
+SQL: SHOW COLUMNS FROM `tb_orderoperation` [ RunTime:0.0598s ]
+SQL: SELECT * FROM `tb_orderoperation`  [ RunTime:0.0033s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000522s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000911s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.086161s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.086584s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.008689s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.009053s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.009208s ]
+INFO: [ app_end ] --END-- [ RunTime:0.009590s ]
+
+[ 2017-12-14T11:24:37+08:00 ] ::1 /classroomorder_ThinkPHP/index.php/Home/Index/images/magglass.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000065s ]
+INFO: [ app_init ] --END-- [ RunTime:0.004250s ]
+
+[ 2017-12-14T11:25:44+08:00 ] ::1 /classroomorder_ThinkPHP/index.php/Home/Index/orderoperationFindAll
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000042s ]
+INFO: [ app_init ] --END-- [ RunTime:0.003130s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.005017s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.005171s ]
+SQL: SHOW COLUMNS FROM `tb_orderoperation` [ RunTime:0.0800s ]
+SQL: SELECT * FROM `tb_orderoperation`  [ RunTime:0.0037s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000682s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.001207s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.136456s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.137015s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.013210s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.013687s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.018739s ]
+INFO: [ app_end ] --END-- [ RunTime:0.019386s ]
+
+[ 2017-12-14T11:25:44+08:00 ] ::1 /classroomorder_ThinkPHP/index.php/Home/Index/images/magglass.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000114s ]
+INFO: [ app_init ] --END-- [ RunTime:0.011162s ]
+
+[ 2017-12-14T11:26:21+08:00 ] ::1 /classroomorder_ThinkPHP/index.php/Home/Index/orderoperationFindAll
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000063s ]
+INFO: [ app_init ] --END-- [ RunTime:0.004877s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.005065s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.005295s ]
+SQL: SHOW COLUMNS FROM `tb_orderoperation` [ RunTime:0.0788s ]
+SQL: SELECT * FROM `tb_orderoperation`  [ RunTime:0.0038s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000746s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.001290s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.110433s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.111012s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.008895s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.009367s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.012927s ]
+INFO: [ app_end ] --END-- [ RunTime:0.013451s ]
+
+[ 2017-12-14T11:26:21+08:00 ] ::1 /classroomorder_ThinkPHP/index.php/Home/Index/images/magglass.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000116s ]
+INFO: [ app_init ] --END-- [ RunTime:0.008636s ]
+
+[ 2017-12-14T11:27:30+08:00 ] ::1 /classroomorder_ThinkPHP/index.php/Home/Index/orderoperationFindAll
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000080s ]
+INFO: [ app_init ] --END-- [ RunTime:0.005306s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.006384s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.006678s ]
+SQL: SHOW COLUMNS FROM `tb_orderoperation` [ RunTime:0.0781s ]
+SQL: SELECT * FROM `tb_orderoperation`  [ RunTime:0.0042s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000719s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.001224s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.113246s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.113795s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.009635s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.010107s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.011846s ]
+INFO: [ app_end ] --END-- [ RunTime:0.012341s ]
+
+[ 2017-12-14T11:27:30+08:00 ] ::1 /classroomorder_ThinkPHP/index.php/Home/Index/images/magglass.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000115s ]
+INFO: [ app_init ] --END-- [ RunTime:0.017983s ]
+
+[ 2017-12-14T11:28:25+08:00 ] ::1 /classroomorder_ThinkPHP/index.php/Home/Index/orderoperationFindAll
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000115s ]
+INFO: [ app_init ] --END-- [ RunTime:0.009612s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.014510s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.014937s ]
+SQL: SHOW COLUMNS FROM `tb_orderoperation` [ RunTime:0.0797s ]
+SQL: SELECT * FROM `tb_orderoperation`  [ RunTime:0.0040s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000768s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.001301s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.136938s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.137492s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.014353s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.014830s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.018323s ]
+INFO: [ app_end ] --END-- [ RunTime:0.018834s ]
+
+[ 2017-12-14T11:28:26+08:00 ] ::1 /classroomorder_ThinkPHP/index.php/Home/Index/images/magglass.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000116s ]
+INFO: [ app_init ] --END-- [ RunTime:0.007854s ]
+
+[ 2017-12-14T11:28:49+08:00 ] ::1 /classroomorder_ThinkPHP/index.php/Home/Index/orderoperationFindAll
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000117s ]
+INFO: [ app_init ] --END-- [ RunTime:0.007953s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.009319s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.009732s ]
+SQL: SHOW COLUMNS FROM `tb_orderoperation` [ RunTime:0.0785s ]
+SQL: SELECT * FROM `tb_orderoperation`  [ RunTime:0.0039s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000735s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.001256s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.113050s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.113610s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.009444s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.009925s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.012512s ]
+INFO: [ app_end ] --END-- [ RunTime:0.013010s ]
+
+[ 2017-12-14T11:28:49+08:00 ] ::1 /classroomorder_ThinkPHP/index.php/Home/Index/images/magglass.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000114s ]
+INFO: [ app_init ] --END-- [ RunTime:0.008234s ]
+
+[ 2017-12-14T11:29:43+08:00 ] ::1 /classroomorder_ThinkPHP/index.php/Home/Index/orderoperationFindAll
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000081s ]
+INFO: [ app_init ] --END-- [ RunTime:0.009420s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.006627s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.008073s ]
+SQL: SHOW COLUMNS FROM `tb_orderoperation` [ RunTime:0.0841s ]
+SQL: SELECT * FROM `tb_orderoperation`  [ RunTime:0.0039s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000732s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.001263s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.123634s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.124197s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.010481s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.011132s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.015166s ]
+INFO: [ app_end ] --END-- [ RunTime:0.015830s ]
+
+[ 2017-12-14T11:29:43+08:00 ] ::1 /classroomorder_ThinkPHP/index.php/Home/Index/images/magglass.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000217s ]
+INFO: [ app_init ] --END-- [ RunTime:0.008380s ]
+
+[ 2017-12-14T11:30:32+08:00 ] ::1 /classroomorder_ThinkPHP/index.php/Home/Index/orderoperationFindAll
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000054s ]
+INFO: [ app_init ] --END-- [ RunTime:0.008155s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.006893s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.007100s ]
+SQL: SHOW COLUMNS FROM `tb_orderoperation` [ RunTime:0.1256s ]
+SQL: SELECT * FROM `tb_orderoperation`  [ RunTime:0.0041s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000393s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000676s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.124606s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.125057s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.007814s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.008067s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.009324s ]
+INFO: [ app_end ] --END-- [ RunTime:0.009599s ]
+
+[ 2017-12-14T11:30:32+08:00 ] ::1 /classroomorder_ThinkPHP/index.php/Home/Index/images/magglass.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000078s ]
+INFO: [ app_init ] --END-- [ RunTime:0.005757s ]
+
+[ 2017-12-14T11:31:02+08:00 ] ::1 /classroomorder_ThinkPHP/index.php/Home/Index/orderoperationFindAll
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000249s ]
+INFO: [ app_init ] --END-- [ RunTime:0.006874s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.007389s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.007907s ]
+SQL: SHOW COLUMNS FROM `tb_orderoperation` [ RunTime:0.0598s ]
+SQL: SELECT * FROM `tb_orderoperation`  [ RunTime:0.0031s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000583s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000994s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.086224s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.086632s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.007963s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.008330s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.010093s ]
+INFO: [ app_end ] --END-- [ RunTime:0.010557s ]
+
+[ 2017-12-14T11:31:02+08:00 ] ::1 /classroomorder_ThinkPHP/index.php/Home/Index/images/magglass.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000113s ]
+INFO: [ app_init ] --END-- [ RunTime:0.007813s ]
+
+[ 2017-12-14T11:32:03+08:00 ] ::1 /classroomorder_ThinkPHP/index.php/Home/Index/orderoperationFindAll
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000065s ]
+INFO: [ app_init ] --END-- [ RunTime:0.003978s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.004837s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.005069s ]
+SQL: SHOW COLUMNS FROM `tb_orderoperation` [ RunTime:0.0788s ]
+SQL: SELECT * FROM `tb_orderoperation`  [ RunTime:0.0039s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000815s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.001371s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.117151s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.117693s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.010266s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.011217s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.017217s ]
+INFO: [ app_end ] --END-- [ RunTime:0.017749s ]
+
+[ 2017-12-14T11:32:03+08:00 ] ::1 /classroomorder_ThinkPHP/index.php/Home/Index/images/magglass.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000092s ]
+INFO: [ app_init ] --END-- [ RunTime:0.007010s ]
+
+[ 2017-12-14T11:32:23+08:00 ] ::1 /classroomorder_ThinkPHP/index.php/Home/Index/orderoperationFindAll
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000117s ]
+INFO: [ app_init ] --END-- [ RunTime:0.008135s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.009291s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.009714s ]
+SQL: SHOW COLUMNS FROM `tb_orderoperation` [ RunTime:0.0778s ]
+SQL: SELECT * FROM `tb_orderoperation`  [ RunTime:0.0039s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000719s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.001224s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.110890s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.111453s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.009084s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.010285s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.014191s ]
+INFO: [ app_end ] --END-- [ RunTime:0.014724s ]
+
+[ 2017-12-14T11:32:24+08:00 ] ::1 /classroomorder_ThinkPHP/index.php/Home/Index/images/magglass.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000113s ]
+INFO: [ app_init ] --END-- [ RunTime:0.008961s ]
+
+[ 2017-12-14T11:32:41+08:00 ] ::1 /classroomorder_ThinkPHP/index.php/Home/Index/orderoperationFindAll
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000114s ]
+INFO: [ app_init ] --END-- [ RunTime:0.009331s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.015032s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.015562s ]
+SQL: SHOW COLUMNS FROM `tb_orderoperation` [ RunTime:0.0523s ]
+SQL: SELECT * FROM `tb_orderoperation`  [ RunTime:0.0037s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000459s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000805s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.096141s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.096497s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.009434s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.009733s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.011807s ]
+INFO: [ app_end ] --END-- [ RunTime:0.012114s ]
+
+[ 2017-12-14T11:32:41+08:00 ] ::1 /classroomorder_ThinkPHP/index.php/Home/Index/images/magglass.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000051s ]
+INFO: [ app_init ] --END-- [ RunTime:0.003510s ]
+
+[ 2017-12-14T11:32:53+08:00 ] ::1 /classroomorder_ThinkPHP/index.php/Home/Index/orderoperationFindAll
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000081s ]
+INFO: [ app_init ] --END-- [ RunTime:0.005672s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.008490s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.008791s ]
+SQL: SHOW COLUMNS FROM `tb_orderoperation` [ RunTime:0.0784s ]
+SQL: SELECT * FROM `tb_orderoperation`  [ RunTime:0.0039s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000773s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.001303s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.109733s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.110380s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.009177s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.009692s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.012203s ]
+INFO: [ app_end ] --END-- [ RunTime:0.012753s ]
+
+[ 2017-12-14T11:32:54+08:00 ] ::1 /classroomorder_ThinkPHP/index.php/Home/Index/images/magglass.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000117s ]
+INFO: [ app_init ] --END-- [ RunTime:0.008434s ]
+
+[ 2017-12-14T11:33:31+08:00 ] ::1 /classroomorder_ThinkPHP/index.php/Home/Index/orderoperationFindAll
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000061s ]
+INFO: [ app_init ] --END-- [ RunTime:0.004116s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.012253s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.012653s ]
+SQL: SHOW COLUMNS FROM `tb_orderoperation` [ RunTime:0.0800s ]
+SQL: SELECT * FROM `tb_orderoperation`  [ RunTime:0.0045s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000773s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.001287s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.121631s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.122148s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.007232s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.007597s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.014706s ]
+INFO: [ app_end ] --END-- [ RunTime:0.015082s ]
+
+[ 2017-12-14T11:33:32+08:00 ] ::1 /classroomorder_ThinkPHP/index.php/Home/Index/images/magglass.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000116s ]
+INFO: [ app_init ] --END-- [ RunTime:0.020567s ]
+
+[ 2017-12-14T11:42:21+08:00 ] ::1 /classroomorder_ThinkPHP/index.php/Home/Index/orderoperationFindAll
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000063s ]
+INFO: [ app_init ] --END-- [ RunTime:0.004835s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.007629s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.007892s ]
+SQL: SHOW COLUMNS FROM `tb_orderoperation` [ RunTime:0.0789s ]
+SQL: SELECT * FROM `tb_orderoperation`  [ RunTime:0.0041s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000726s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.001233s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.143802s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.144366s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.013724s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.014206s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.018438s ]
+INFO: [ app_end ] --END-- [ RunTime:0.018937s ]
+
+[ 2017-12-14T11:42:21+08:00 ] ::1 /classroomorder_ThinkPHP/index.php/Home/Index/images/magglass.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000092s ]
+INFO: [ app_init ] --END-- [ RunTime:0.006208s ]
+
+[ 2017-12-14T11:42:45+08:00 ] ::1 /classroomorder_ThinkPHP/index.php/Home/Index/orderoperationFindAll
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000092s ]
+INFO: [ app_init ] --END-- [ RunTime:0.006096s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.007382s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.007720s ]
+SQL: SHOW COLUMNS FROM `tb_orderoperation` [ RunTime:0.0826s ]
+SQL: SELECT * FROM `tb_orderoperation`  [ RunTime:0.0046s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000485s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000945s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.099250s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.099701s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.005874s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.006171s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.007147s ]
+INFO: [ app_end ] --END-- [ RunTime:0.007454s ]
+
+[ 2017-12-14T11:42:45+08:00 ] ::1 /classroomorder_ThinkPHP/index.php/Home/Index/images/magglass.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000095s ]
+INFO: [ app_init ] --END-- [ RunTime:0.015694s ]
+
+[ 2017-12-14T12:02:16+08:00 ] ::1 /classroomorder_ThinkPHP/index.php/Home/Index/orderoperationFindAll
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000054s ]
+INFO: [ app_init ] --END-- [ RunTime:0.005385s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.006736s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.006945s ]
+SQL: SHOW COLUMNS FROM `tb_orderoperation` [ RunTime:0.0911s ]
+SQL: SELECT * FROM `tb_orderoperation`  [ RunTime:0.0043s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000729s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.001238s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.144961s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.145776s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.013668s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.014323s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.017114s ]
+INFO: [ app_end ] --END-- [ RunTime:0.017619s ]
+
+[ 2017-12-14T12:02:17+08:00 ] ::1 /classroomorder_ThinkPHP/index.php/Home/Index/images/magglass.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000114s ]
+INFO: [ app_init ] --END-- [ RunTime:0.008022s ]
+
+[ 2017-12-14T12:02:24+08:00 ] ::1 /classroomorder_ThinkPHP/index.php/Home/Index/operationAgree
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000061s ]
+INFO: [ app_init ] --END-- [ RunTime:0.004624s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.004832s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.005057s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000288s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000509s ]
+NOTIC: [8] Undefined variable: select D:\phpStudy\WWW\classroomorder_ThinkPHP\App\Runtime\Cache\Home\ee6f1f549cb3d032679a40707958a5e3.php 第 94 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.045224s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.045425s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.003725s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.003917s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.005556s ]
+INFO: [ app_end ] --END-- [ RunTime:0.005756s ]
+
+[ 2017-12-14T12:02:24+08:00 ] ::1 /classroomorder_ThinkPHP/index.php/Home/Index/images/magglass.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000064s ]
+INFO: [ app_init ] --END-- [ RunTime:0.004307s ]
+
+[ 2017-12-14T12:02:32+08:00 ] ::1 /classroomorder_ThinkPHP/index.php/Home/Index/orderoperationFindAll
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000093s ]
+INFO: [ app_init ] --END-- [ RunTime:0.009435s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.012252s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.013856s ]
+SQL: SHOW COLUMNS FROM `tb_orderoperation` [ RunTime:0.0398s ]
+SQL: SELECT * FROM `tb_orderoperation`  [ RunTime:0.0023s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000361s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000625s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.070244s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.070564s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.008045s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.008296s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.008344s ]
+INFO: [ app_end ] --END-- [ RunTime:0.008605s ]
+
+[ 2017-12-14T12:02:33+08:00 ] ::1 /classroomorder_ThinkPHP/index.php/Home/Index/images/magglass.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000065s ]
+INFO: [ app_init ] --END-- [ RunTime:0.004062s ]
+
+[ 2017-12-14T12:02:44+08:00 ] ::1 /classroomorder_ThinkPHP/index.php/Home/Index/operationAgree
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000111s ]
+INFO: [ app_init ] --END-- [ RunTime:0.007712s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.009172s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.009590s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000528s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000919s ]
+NOTIC: [8] Undefined variable: select D:\phpStudy\WWW\classroomorder_ThinkPHP\App\Runtime\Cache\Home\ee6f1f549cb3d032679a40707958a5e3.php 第 94 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.096767s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.097084s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.005197s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.005454s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.006373s ]
+INFO: [ app_end ] --END-- [ RunTime:0.006629s ]
+
+[ 2017-12-14T12:02:44+08:00 ] ::1 /classroomorder_ThinkPHP/index.php/Home/Index/images/magglass.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000079s ]
+INFO: [ app_init ] --END-- [ RunTime:0.005220s ]
+
+[ 2017-12-14T12:02:50+08:00 ] ::1 /classroomorder_ThinkPHP/index.php/Home/Index/orderoperationFindAll
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000116s ]
+INFO: [ app_init ] --END-- [ RunTime:0.013010s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.007628s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.008169s ]
+SQL: SHOW COLUMNS FROM `tb_orderoperation` [ RunTime:0.0827s ]
+SQL: SELECT * FROM `tb_orderoperation`  [ RunTime:0.0046s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000536s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000939s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.086409s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.086904s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.006892s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.007262s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.009446s ]
+INFO: [ app_end ] --END-- [ RunTime:0.009958s ]
+
+[ 2017-12-14T12:02:50+08:00 ] ::1 /classroomorder_ThinkPHP/index.php/Home/Index/images/magglass.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000115s ]
+INFO: [ app_init ] --END-- [ RunTime:0.007893s ]
+
+[ 2017-12-14T12:02:55+08:00 ] ::1 /classroomorder_ThinkPHP/index.php/Home/Index/operationAgree
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000053s ]
+INFO: [ app_init ] --END-- [ RunTime:0.003659s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.005340s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.005545s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000220s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000392s ]
+NOTIC: [8] Undefined variable: select D:\phpStudy\WWW\classroomorder_ThinkPHP\App\Runtime\Cache\Home\ee6f1f549cb3d032679a40707958a5e3.php 第 94 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.035827s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.036020s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.002907s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.003066s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.003965s ]
+INFO: [ app_end ] --END-- [ RunTime:0.004130s ]
+
+[ 2017-12-14T12:02:55+08:00 ] ::1 /classroomorder_ThinkPHP/index.php/Home/Index/images/magglass.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000051s ]
+INFO: [ app_init ] --END-- [ RunTime:0.003492s ]
+
+[ 2017-12-14T12:03:13+08:00 ] ::1 /classroomorder_ThinkPHP/index.php/Home/Index/orderoperationFindAll
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000062s ]
+INFO: [ app_init ] --END-- [ RunTime:0.003922s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.005236s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.005467s ]
+SQL: SHOW COLUMNS FROM `tb_orderoperation` [ RunTime:0.0842s ]
+SQL: SELECT * FROM `tb_orderoperation`  [ RunTime:0.0049s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000549s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000952s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.087337s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.087817s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.006876s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.007242s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.009486s ]
+INFO: [ app_end ] --END-- [ RunTime:0.009872s ]
+
+[ 2017-12-14T12:03:13+08:00 ] ::1 /classroomorder_ThinkPHP/index.php/Home/Index/images/magglass.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000115s ]
+INFO: [ app_init ] --END-- [ RunTime:0.009735s ]
+
+[ 2017-12-14T12:03:46+08:00 ] ::1 /classroomorder_ThinkPHP/index.php/Home/Index/orderoperationFindAll
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000115s ]
+INFO: [ app_init ] --END-- [ RunTime:0.007707s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.009503s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.009911s ]
+SQL: SHOW COLUMNS FROM `tb_orderoperation` [ RunTime:0.0843s ]
+SQL: SELECT * FROM `tb_orderoperation`  [ RunTime:0.0047s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000628s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.001041s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.144755s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.145265s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.007751s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.010609s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.009705s ]
+INFO: [ app_end ] --END-- [ RunTime:0.010198s ]
+
+[ 2017-12-14T12:03:46+08:00 ] ::1 /classroomorder_ThinkPHP/index.php/Home/Index/images/magglass.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000116s ]
+INFO: [ app_init ] --END-- [ RunTime:0.008712s ]
+
+[ 2017-12-14T12:03:51+08:00 ] ::1 /classroomorder_ThinkPHP/index.php/Home/Index/operationAgree
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000112s ]
+INFO: [ app_init ] --END-- [ RunTime:0.007788s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.017089s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.017497s ]
+ERR: 模板不存在:./App/Home/View/Index/orderoperationFindAll.html
+
+[ 2017-12-14T12:04:18+08:00 ] ::1 /classroomorder_ThinkPHP/index.php/Home/Index/operationAgree
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000526s ]
+INFO: [ app_init ] --END-- [ RunTime:0.011362s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.010741s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.011179s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000527s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000924s ]
+NOTIC: [8] Undefined variable: select D:\phpStudy\WWW\classroomorder_ThinkPHP\App\Runtime\Cache\Home\ee6f1f549cb3d032679a40707958a5e3.php 第 94 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.084152s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.084530s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.006643s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.007193s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.009718s ]
+INFO: [ app_end ] --END-- [ RunTime:0.010057s ]
+
+[ 2017-12-14T12:04:18+08:00 ] ::1 /classroomorder_ThinkPHP/index.php/Home/Index/images/magglass.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000124s ]
+INFO: [ app_init ] --END-- [ RunTime:0.006874s ]
+
+[ 2017-12-14T12:04:21+08:00 ] ::1 /classroomorder_ThinkPHP/index.php/Home/Index/operationAgree
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000113s ]
+INFO: [ app_init ] --END-- [ RunTime:0.009943s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.019997s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.020597s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000547s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.001201s ]
+NOTIC: [8] Undefined variable: select D:\phpStudy\WWW\classroomorder_ThinkPHP\App\Runtime\Cache\Home\ee6f1f549cb3d032679a40707958a5e3.php 第 94 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.140005s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.141073s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.003768s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.003963s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.004988s ]
+INFO: [ app_end ] --END-- [ RunTime:0.005184s ]
+
+[ 2017-12-14T12:04:21+08:00 ] ::1 /classroomorder_ThinkPHP/index.php/Home/Index/images/magglass.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000062s ]
+INFO: [ app_init ] --END-- [ RunTime:0.004063s ]
+
+[ 2017-12-14T12:04:26+08:00 ] ::1 /classroomorder_ThinkPHP/index.php/Home/Index/orderoperationFindAll
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000101s ]
+INFO: [ app_init ] --END-- [ RunTime:0.006686s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.007779s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.008113s ]
+SQL: SHOW COLUMNS FROM `tb_orderoperation` [ RunTime:0.0884s ]
+SQL: SELECT * FROM `tb_orderoperation`  [ RunTime:0.0024s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000369s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000644s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.058741s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.059072s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.005794s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.006050s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.006355s ]
+INFO: [ app_end ] --END-- [ RunTime:0.006640s ]
+
+[ 2017-12-14T12:04:27+08:00 ] ::1 /classroomorder_ThinkPHP/index.php/Home/Index/images/magglass.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000079s ]
+INFO: [ app_init ] --END-- [ RunTime:0.005649s ]
+
+[ 2017-12-14T12:04:31+08:00 ] ::1 /classroomorder_ThinkPHP/index.php/Home/Index/operationAgree
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000041s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002595s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.003223s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.003374s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000173s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000319s ]
+NOTIC: [8] Undefined variable: select D:\phpStudy\WWW\classroomorder_ThinkPHP\App\Runtime\Cache\Home\ee6f1f549cb3d032679a40707958a5e3.php 第 94 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.027147s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.027279s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.002430s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.002556s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.002944s ]
+INFO: [ app_end ] --END-- [ RunTime:0.003071s ]
+
+[ 2017-12-14T12:04:32+08:00 ] ::1 /classroomorder_ThinkPHP/index.php/Home/Index/images/magglass.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000042s ]
+INFO: [ app_init ] --END-- [ RunTime:0.003561s ]
+
+[ 2017-12-14T12:04:36+08:00 ] ::1 /classroomorder_ThinkPHP/index.php/Home/Index/orderoperationFindAll
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000070s ]
+INFO: [ app_init ] --END-- [ RunTime:0.004870s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.009202s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.009466s ]
+SQL: SHOW COLUMNS FROM `tb_orderoperation` [ RunTime:0.0877s ]
+SQL: SELECT * FROM `tb_orderoperation`  [ RunTime:0.0062s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000539s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000933s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.129774s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.130287s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.010979s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.011411s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.013519s ]
+INFO: [ app_end ] --END-- [ RunTime:0.013907s ]
+
+[ 2017-12-14T12:04:36+08:00 ] ::1 /classroomorder_ThinkPHP/index.php/Home/Index/images/magglass.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000113s ]
+INFO: [ app_init ] --END-- [ RunTime:0.007698s ]
+
+[ 2017-12-14T12:08:36+08:00 ] ::1 /classroomorder_ThinkPHP/index.php/Home/Index/orderoperationFindAll
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000081s ]
+INFO: [ app_init ] --END-- [ RunTime:0.007470s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.010702s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.011006s ]
+SQL: SHOW COLUMNS FROM `tb_orderoperation` [ RunTime:0.0611s ]
+SQL: SELECT * FROM `tb_orderoperation`  [ RunTime:0.0033s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000745s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.001360s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.113951s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.114472s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.014769s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.015248s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.016546s ]
+INFO: [ app_end ] --END-- [ RunTime:0.017320s ]
+
+[ 2017-12-14T12:08:37+08:00 ] ::1 /classroomorder_ThinkPHP/index.php/Home/Index/images/magglass.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000079s ]
+INFO: [ app_init ] --END-- [ RunTime:0.006237s ]
+
+[ 2017-12-14T12:08:37+08:00 ] ::1 /classroomorder_ThinkPHP/index.php
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000082s ]
+INFO: [ app_init ] --END-- [ RunTime:0.006971s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.011685s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.011995s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000310s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000608s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.093125s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.093429s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.008814s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.009075s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.011911s ]
+INFO: [ app_end ] --END-- [ RunTime:0.012227s ]
+
+[ 2017-12-14T12:08:41+08:00 ] ::1 /classroomorder_ThinkPHP/index.php/Home/Index/operationAgree
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000169s ]
+INFO: [ app_init ] --END-- [ RunTime:0.009370s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.009464s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.009878s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000724s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.001147s ]
+NOTIC: [8] Undefined variable: select D:\phpStudy\WWW\classroomorder_ThinkPHP\App\Runtime\Cache\Home\ee6f1f549cb3d032679a40707958a5e3.php 第 94 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.097540s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.097935s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.007266s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.007646s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.009029s ]
+INFO: [ app_end ] --END-- [ RunTime:0.009401s ]
+
+[ 2017-12-14T12:08:41+08:00 ] ::1 /classroomorder_ThinkPHP/index.php/Home/Index/images/magglass.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000076s ]
+INFO: [ app_init ] --END-- [ RunTime:0.005129s ]
+
+[ 2017-12-14T12:08:46+08:00 ] ::1 /classroomorder_ThinkPHP/index.php/Home/Index/orderoperationFindAll
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000089s ]
+INFO: [ app_init ] --END-- [ RunTime:0.005720s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.006151s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.006442s ]
+SQL: SHOW COLUMNS FROM `tb_orderoperation` [ RunTime:0.0806s ]
+SQL: SELECT * FROM `tb_orderoperation`  [ RunTime:0.0044s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000535s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000927s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.088676s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.089163s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.007578s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.007943s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.008942s ]
+INFO: [ app_end ] --END-- [ RunTime:0.009320s ]
+
+[ 2017-12-14T12:08:46+08:00 ] ::1 /classroomorder_ThinkPHP/index.php/Home/Index/images/magglass.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000116s ]
+INFO: [ app_init ] --END-- [ RunTime:0.018266s ]
+
+[ 2017-12-14T12:10:32+08:00 ] ::1 /classroomorder_ThinkPHP/index.php/Home/Index/orderoperationFindAll
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000043s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002687s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.003599s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.003765s ]
+SQL: SHOW COLUMNS FROM `tb_orderoperation` [ RunTime:0.0422s ]
+SQL: SELECT * FROM `tb_orderoperation`  [ RunTime:0.0025s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000418s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000855s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.056838s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.057144s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.004862s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.005112s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.007739s ]
+INFO: [ app_end ] --END-- [ RunTime:0.008005s ]
+
+[ 2017-12-14T12:10:32+08:00 ] ::1 /classroomorder_ThinkPHP/index.php/Home/Index/images/magglass.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000076s ]
+INFO: [ app_init ] --END-- [ RunTime:0.005200s ]
+
+[ 2017-12-14T12:10:36+08:00 ] ::1 /classroomorder_ThinkPHP/index.php/Home/Index/operationAgree
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000073s ]
+INFO: [ app_init ] --END-- [ RunTime:0.007763s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.009595s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.009870s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000311s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000554s ]
+NOTIC: [8] Undefined variable: select D:\phpStudy\WWW\classroomorder_ThinkPHP\App\Runtime\Cache\Home\ee6f1f549cb3d032679a40707958a5e3.php 第 94 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.051118s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.051344s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.005373s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.005597s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.005565s ]
+INFO: [ app_end ] --END-- [ RunTime:0.005790s ]
+
+[ 2017-12-14T12:10:36+08:00 ] ::1 /classroomorder_ThinkPHP/index.php/Home/Index/images/magglass.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000069s ]
+INFO: [ app_init ] --END-- [ RunTime:0.005274s ]
+
+[ 2017-12-14T12:10:41+08:00 ] ::1 /classroomorder_ThinkPHP/index.php/Home/Index/orderoperationFindAll
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000079s ]
+INFO: [ app_init ] --END-- [ RunTime:0.006019s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.006615s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.006910s ]
+SQL: SHOW COLUMNS FROM `tb_orderoperation` [ RunTime:0.0587s ]
+SQL: SELECT * FROM `tb_orderoperation`  [ RunTime:0.0030s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000432s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000747s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.092059s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.092505s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.008144s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.008944s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.010733s ]
+INFO: [ app_end ] --END-- [ RunTime:0.011047s ]
+
+[ 2017-12-14T12:10:42+08:00 ] ::1 /classroomorder_ThinkPHP/index.php/Home/Index/images/magglass.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000054s ]
+INFO: [ app_init ] --END-- [ RunTime:0.003763s ]
+

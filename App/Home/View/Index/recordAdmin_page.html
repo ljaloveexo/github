@@ -1,0 +1,40 @@
+<!DOCTYPE hmtl>
+<hmtl>
+<head>
+</head>
+<body>
+<div id="server">
+                   
+					<table id="info" bordercolor="#dadada" border="1" align="center">
+					<th>编号</th>
+					<th>详细地址</th>
+					<th>预订日期</th>
+					<th>时间段</th>
+					<th>预订人</th>
+					<th>预订原因</th>
+						<th>预订结果</th>
+						
+					</tr>
+					<tbody align="center" class="tableBody" border="1" id="info_page">
+					<volist name="list" id="orderresult">
+						<tr>
+							
+							<td>&nbsp;{$orderresult.number}</td>
+							<td>&nbsp;{$orderresult.address}</td>
+							<td>&nbsp;{$orderresult.orderdate}</td>
+							<td>&nbsp;{$orderresult.time}</td>
+							<td>&nbsp;{$orderresult.user}</td>
+							<td>&nbsp;{$orderresult.reason}</td>
+							<td>&nbsp;{$orderresult.result}</td>
+						</tr>
+						</volist>
+
+					</tbody>
+				</table>
+				<section id="preview"></section>
+				<div id="row-fluid">{$data}</div>
+				<input type="hidden" id="tb" value="orderrecord" />
+				<input type="hidden" id="page" value="Index/recordAdmin_page" />
+				</div>
+</body>
+</hmtl>

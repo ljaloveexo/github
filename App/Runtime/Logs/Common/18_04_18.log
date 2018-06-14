@@ -1,0 +1,24 @@
+[ 2018-04-18T16:58:46+08:00 ] ::1 /classroomorder_ThinkPHP/index.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+ERR: 无法加载模块:Classroomorder_ThinkPHP
+
+[ 2018-04-18T17:03:52+08:00 ] ::1 /classroomorder_ThinkPHP/index.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+ERR: 无法加载模块:Classroomorder_ThinkPHP
+
+[ 2018-04-18T17:10:17+08:00 ] ::1 /classroomorder_ThinkPHP/index.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+ERR: 无法加载模块:Classroomorder_ThinkPHP
+
+[ 2018-04-18T17:10:18+08:00 ] ::1 /classroomorder_ThinkPHP/index.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+ERR: 无法加载模块:Classroomorder_ThinkPHP
+
